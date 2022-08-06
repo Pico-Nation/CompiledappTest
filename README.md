@@ -1,0 +1,2 @@
+# CompiledappTest
+picowallet.apk
